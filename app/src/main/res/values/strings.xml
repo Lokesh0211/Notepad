@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <array name="highlightColor">
+        <item>Choose Color</item>
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>ORANGE</item>
+    </array>
+    <dimen name="dimension">20dp</dimen>
+</resources>
